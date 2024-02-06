@@ -19,8 +19,6 @@ Currently, my research has centered on
 * **Behavioral patterns analysis**: Analyzing learning behavioral patterns by using learning support systems
 * **Generative AI**: Developing tools for applying generative AI in education
 
-<!-- 
-I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:chenli@limu.ait.kyushu-u.ac.jp" target="_blank">email</a>.
 
 <h2 id='publications'>Publications</h2>
 
@@ -45,6 +43,18 @@ I am always looking for related colaboration. If you are interested to chat with
     </li>
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Direction of collaborative problem solving-based STEM learning by learning analytics approach</b><br>
         <b>Chen, L.</b>, Yoshimatsu, N., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., ... & Yamada, M. (2019). <i>Research and Practice in Technology Enhanced Learning, 14</i>(1), 1–28.
+    </li>
+</ol>
+
+### Book Chapter
+<ol style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 10px;"><b>MAI Helper: Learning Support System for Time Management Skill Acquisition Using Learning Analytics</b><br>
+        Watanabe H., <b>Chen L. </b>, Geng X., Goda Y., Shimada A., Yamada M. (2022). <i>In: Ifenthaler D., Isaías P., Sampson D.G. (eds) Orchestration of Learning Environments in the Digital World. Cognition and Exploratory Learning in the Digital Age</i>,pp.263-281. Springer, Cham. 
+    </li>
+    <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Learning Analytics Dashboard Supporting Metacognition</b><br>
+        <b>Chen. L.</b>, Lu. M., Goda. Y., Shimada. A., Yamada. M. (2021). <i>In: Ifenthaler D., Sampson D.G., Isaías P. (eds) Balancing the Tension between Digital Technologies and Learning Sciences. Cognition and Exploratory Learning in the Digital Age</i>,pp.129-149. Springer, Cham. 
+    </li><li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Visualizing Studying Activities for a Learning Dashboard Supporting Meta-cognition for Students</b><br>
+        Lu. M., <b>Chen. L.</b>, Goda. Y., Shimada. A., Yamada. M. (2022). <i>In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions. HCII 2020. Vol. 12203</i>,pp. 569-580. Springer, Cham.
     </li>
 </ol>
 
@@ -109,15 +119,3 @@ I am always looking for related colaboration. If you are interested to chat with
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
 
 
-### Book Chapter
-<ol style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 10px;"><b>MAI Helper: Learning Support System for Time Management Skill Acquisition Using Learning Analytics</b><br>
-        Watanabe H., <b>Chen L. </b>, Geng X., Goda Y., Shimada A., Yamada M. (2022). <i>In: Ifenthaler D., Isaías P., Sampson D.G. (eds) Orchestration of Learning Environments in the Digital World. Cognition and Exploratory Learning in the Digital Age</i>,pp.263-281. Springer, Cham. 
-    </li>
-    <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Learning Analytics Dashboard Supporting Metacognition</b><br>
-        <b>Chen. L.</b>, Lu. M., Goda. Y., Shimada. A., Yamada. M. (2021). <i>In: Ifenthaler D., Sampson D.G., Isaías P. (eds) Balancing the Tension between Digital Technologies and Learning Sciences. Cognition and Exploratory Learning in the Digital Age</i>,pp.129-149. Springer, Cham. 
-    </li><li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Visualizing Studying Activities for a Learning Dashboard Supporting Meta-cognition for Students</b><br>
-        Lu. M., <b>Chen. L.</b>, Goda. Y., Shimada. A., Yamada. M. (2022). <i>In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions. HCII 2020. Vol. 12203</i>,pp. 569-580. Springer, Cham.
-    </li>
-</ol>
--->
