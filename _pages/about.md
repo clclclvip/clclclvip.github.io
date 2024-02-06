@@ -21,7 +21,6 @@ Currently, my research has centered on
 
 <!-- 
 I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:chenli@limu.ait.kyushu-u.ac.jp" target="_blank">email</a>.
--->
 
 <h2 id='publications'>Publications</h2>
 
@@ -121,3 +120,4 @@ I am always looking for related colaboration. If you are interested to chat with
         Lu. M., <b>Chen. L.</b>, Goda. Y., Shimada. A., Yamada. M. (2022). <i>In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions. HCII 2020. Vol. 12203</i>,pp. 569-580. Springer, Cham.
     </li>
 </ol>
+-->
