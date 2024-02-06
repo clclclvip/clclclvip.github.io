@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "Publications"
@@ -14,6 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
 ### Peer-reviewed Journal
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
