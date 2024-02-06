@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Li Chen is currently working as an Assistant Professor in the Faculty of Information Science and Electrical Engineering at Kyushu University, as a member of 　[Laboratory for Image and Media Understanding](https://limu.ait.kyushu-u.ac.jp). She received the B.S. degree from [East China Normal University](https://www.ecnu.edu.cn), China, in 2010, and M.S. Ph.D. degrees from [Kyushu University](https://www.kyushu-u.ac.jp/ja/), Japan, in 2018 and 2021, respectively. 
+Li Chen is currently working as an Assistant Professor in the Faculty of Information Science and Electrical Engineering at Kyushu University, as a member of [Laboratory for Image and Media Understanding](https://limu.ait.kyushu-u.ac.jp). She received the B.S. degree from East China Normal University, China, in 2010, and M.S. Ph.D. degrees from Kyushu University, Japan, in 2018 and 2021, respectively. 
 
 <h2 id='research-interests'>Research Interests</h2>
 
