@@ -31,7 +31,6 @@ I am always looking for related colaboration. If you are interested to chat with
 
 
 ### Peer-reviewed Journal
-<h4>Journal Papers</h4>
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
         <b>Chen, L.</b>, Geng, X., Lu, M., Shimada, A., and Yamada, M. (2023). <i>SAGE Open, 13</i>(3).
@@ -52,7 +51,6 @@ I am always looking for related colaboration. If you are interested to chat with
 
 
 ### Peer-reviewed Conference
-<h4>Peer-reviewed Conference</h4>
 <ol style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;"><b>Designing Worksheet for Using ChatGPT: Towards Enhancing Information Retrieval and Judgment Skills</b><br>
         <b>Chen, L.</b> and Shimada, A. (2023). <i>Proceedings of 2023 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2023)</i>, (pp. 155–158). Auckland, New Zealand.
@@ -113,22 +111,13 @@ I am always looking for related colaboration. If you are interested to chat with
 
 
 ### Book Chapter
-<h4>Book Chapter</h4>
 <ol style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;"><b>MAI Helper: Learning Support System for Time Management Skill Acquisition Using Learning Analytics</b><br>
-        Watanabe H., <b>Chen L. <b>, Geng X., Goda Y., Shimada A., Yamada M. (2022). <i>In: Ifenthaler D., Isaías P., Sampson D.G. (eds) Orchestration of Learning Environments in the Digital World. Cognition and Exploratory Learning in the Digital Age</i>,pp.263-281. Springer, Cham. 
+        Watanabe H., <b>Chen L. </b>, Geng X., Goda Y., Shimada A., Yamada M. (2022). <i>In: Ifenthaler D., Isaías P., Sampson D.G. (eds) Orchestration of Learning Environments in the Digital World. Cognition and Exploratory Learning in the Digital Age</i>,pp.263-281. Springer, Cham. 
     </li>
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Learning Analytics Dashboard Supporting Metacognition</b><br>
-        <b>Chen. L.<b>, Lu. M., Goda. Y., Shimada. A., Yamada. M. (2021). <i>In: Ifenthaler D., Sampson D.G., Isaías P. (eds) Balancing the Tension between Digital Technologies and Learning Sciences. Cognition and Exploratory Learning in the Digital Age</i>,pp.129-149. Springer, Cham. 
+        <b>Chen. L.</b>, Lu. M., Goda. Y., Shimada. A., Yamada. M. (2021). <i>In: Ifenthaler D., Sampson D.G., Isaías P. (eds) Balancing the Tension between Digital Technologies and Learning Sciences. Cognition and Exploratory Learning in the Digital Age</i>,pp.129-149. Springer, Cham. 
     </li><li style="counter-increment: list-counter; margin-bottom: 10px;"><b>Visualizing Studying Activities for a Learning Dashboard Supporting Meta-cognition for Students</b><br>
-        Lu. M., <b>Chen. L.<b>, Goda. Y., Shimada. A., Yamada. M. (2022). <i>In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions. HCII 2020. Vol. 12203</i>,pp. 569-580. Springer, Cham.
+        Lu. M., <b>Chen. L.</b>, Goda. Y., Shimada. A., Yamada. M. (2022). <i>In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions. HCII 2020. Vol. 12203</i>,pp. 569-580. Springer, Cham.
     </li>
 </ol>
-
-
-
-### Domestic Conference
-
-
-
-
