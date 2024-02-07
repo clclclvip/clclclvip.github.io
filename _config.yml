@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li CHEN"
+title                    : "Li CHEN (陳莉)"
 title_separator          : "-"
 name                     : &name "Li CHEN"
 description              : &description "Assistant professor"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "clclclvip.github.io"
+  github           : "clclclvip"
   google_plus      :
   keybase          :
   instagram        :
