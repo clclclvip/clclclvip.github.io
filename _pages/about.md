@@ -121,4 +121,9 @@ Currently, my research has centered on
 
 <h2 id='education'>Education</h2>
 
+* **B.S. in Chemistry, East China Noraml University, 2010** 
+* **M.S. in Education, Kyushu University, 2018**
+* **Ph.D in Education, Kyushu University, 2021**
+
+
 
