@@ -10,24 +10,27 @@ redirect_from:
 
 Li Chen is currently working as an Assistant Professor in the Faculty of Information Science and Electrical Engineering at Kyushu University, as a member of [Laboratory for Image and Media Understanding](https://limu.ait.kyushu-u.ac.jp). She received the B.S. degree from East China Normal University, China, in 2010, and M.S. Ph.D. degrees from Kyushu University, Japan, in 2018 and 2021, respectively. 
 
-<h2 id='research-interests'>Research Interests</h2>
+# Research Interests
 
 Currently, my research has centered on
 
 * **CPS-based STEM education**: Instructional design and evaluation for collaborative problem solving based STEM(Science, Technology, Engineering, and Mathematics) education
+  
 * **Learning analytics dashboard(LAD)**: Designing and applying LADs in education
+  
 * **Behavioral patterns analysis**: Analyzing learning behavioral patterns by using learning support systems
+  
 * **Generative AI**: Developing tools for applying generative AI in education
 
 
-<h2 id='publications'>Publications</h2>
+# Publications
 
 <a href="https://scholar.google.com/citations?user=gQWDB8b2ooAC&hl=ja" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-blue?style=social&logo=googlescholar" alt="Google Scholar">
 </a>
 
 
-### Peer-reviewed Journal
+## Peer-reviewed Journal
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
         <b>Chen, L.</b>, Geng, X., Lu, M., Shimada, A., and Yamada, M. (2023). <i>SAGE Open, 13</i>(3).
@@ -46,7 +49,7 @@ Currently, my research has centered on
     </li>
 </ol>
 
-### Book Chapter
+## Book Chapter
 <ol style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;"><b>MAI Helper: Learning Support System for Time Management Skill Acquisition Using Learning Analytics</b><br>
         Watanabe H., <b>Chen L. </b>, Geng X., Goda Y., Shimada A., Yamada M. (2022). <i>In: Ifenthaler D., Isaías P., Sampson D.G. (eds) Orchestration of Learning Environments in the Digital World. Cognition and Exploratory Learning in the Digital Age</i>,pp.263-281. Springer, Cham. 
@@ -59,7 +62,7 @@ Currently, my research has centered on
 </ol>
 
 
-### Peer-reviewed Conference
+## Peer-reviewed Conference
 <ol style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;"><b>Designing Worksheet for Using ChatGPT: Towards Enhancing Information Retrieval and Judgment Skills</b><br>
         <b>Chen, L.</b> and Shimada, A. (2023). <i>Proceedings of 2023 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2023)</i>, (pp. 155–158). Auckland, New Zealand.
@@ -119,7 +122,7 @@ Currently, my research has centered on
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
 
 
-<h2 id='education'>Education</h2>
+# Education
 
 * **B.S. in Chemistry, East China Noraml University, 2010** 
 * **M.S. in Education, Kyushu University, 2018**
