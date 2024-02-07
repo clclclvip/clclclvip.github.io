@@ -14,59 +14,6 @@ author_profile: true
 </a>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Interactive Number Icons</title>
-<style>
-  /* 基本列表样式 */
-  ol {
-    list-style-type: none;
-    padding: 0;
-    counter-reset: list-counter;
-  }
-  li {
-    counter-increment: list-counter;
-    margin-bottom: 10px;
-  }
-  li:before {
-    content: counter(list-counter);
-    margin-right: 5px;
-    /* 添加圆圈或方框样式 */
-    border: 2px solid black; /* 边框 */
-    border-radius: 50%; /* 圆形图标，如果需要方形，可以设置为0 */
-    display: inline-block;
-    width: 20px; /* 图标宽度 */
-    height: 20px; /* 图标高度 */
-    text-align: center;
-    line-height: 18px; /* 调整以垂直居中数字 */
-    transition: background-color 0.3s, color 0.3s; /* 过渡效果 */
-  }
-  /* 鼠标悬停效果 */
-  li:before:hover {
-    background-color: black; /* 背景颜色 */
-    color: white; /* 字体颜色 */
-    cursor: pointer;
-  }
-</style>
-</head>
-<body>
-
-
-
-<ol>
-    <li><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
-        <b>Chen, L.</b>, Geng, X., Lu, M., Shimada, A., and Yamada, M. (2023). <i>SAGE Open, 13</i>(3).
-    </li>
-    <li><b>Learning behavioral patterns of students with varying performance in a high school mathematics course using an e-book system</b><br>
-        Geng, X., <b>Chen, L.</b>, Xu, Y., Ogata, H., Shimada, A. and Yamada, M. (2024). <i>Research and Practice in Technology Enhanced Learning, 19</i>(11).
-    </li>
-</ol>
-
-
-
 ## Peer-reviewed Journal
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
@@ -157,6 +104,3 @@ author_profile: true
     </li>
     <li style="margin-bottom: 10px;"><b>Instructional Design and Evaluation of Science Education to Improve Collaborative Problem Solving Skills</b><br>
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
-
-</body>
-</html>
