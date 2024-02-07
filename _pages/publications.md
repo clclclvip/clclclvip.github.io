@@ -14,6 +14,46 @@ author_profile: true
 </a>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Interactive Number Icon on Hover</title>
+<style>
+    /* 重置列表样式，并设置计数器 */
+    ol {
+        list-style-type: none;
+        padding: 0;
+        counter-reset: list-counter;
+    }
+    li {
+        counter-increment: list-counter;
+        margin-bottom: 10px;
+    }
+    /* 添加伪元素来显示数字，并在悬停时改变颜色 */
+    li::before {
+        content: counter(list-counter) ". ";
+        color: black; /* 默认颜色 */
+        cursor: pointer; /* 将鼠标光标改为指针形状 */
+    }
+    li:hover::before {
+        color: blue; /* 鼠标悬停时的颜色 */
+    }
+</style>
+</head>
+<body>
+
+<ol>
+    <li><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
+        <b>Chen, L.</b>, Geng, X., Lu, M., Shimada, A., and Yamada, M. (2023). <i>SAGE Open, 13</i>(3).
+    </li>
+    <li><b>Learning behavioral patterns of students with varying performance in a high school mathematics course using an e-book system</b><br>
+        Geng, X., <b>Chen, L.</b>, Xu, Y., Ogata, H., Shimada, A. and Yamada, M. (2024). <i>Research and Practice in Technology Enhanced Learning, 19</i>(11).
+    </li>
+</ol>
+
+
+
 ## Peer-reviewed Journal
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
@@ -104,3 +144,6 @@ author_profile: true
     </li>
     <li style="margin-bottom: 10px;"><b>Instructional Design and Evaluation of Science Education to Improve Collaborative Problem Solving Skills</b><br>
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
+
+</body>
+</html>
