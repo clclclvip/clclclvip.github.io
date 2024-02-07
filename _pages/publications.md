@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications([Google Scholar Profile](https://scholar.google.com/citations?user=gQWDB8b2ooAC&hl=ja))"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,6 +8,10 @@ author_profile: true
 <div id="publications">
   <!-- Publications content -->
 </div>
+
+<a href="https://scholar.google.com/citations?user=gQWDB8b2ooAC&hl=ja" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-blue?style=social&logo=googlescholar" alt="Google Scholar">
+</a>
 
 
 ## Peer-reviewed Journal
