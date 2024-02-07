@@ -18,30 +18,43 @@ author_profile: true
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Interactive Number Icon on Hover</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive Number Icons</title>
 <style>
-    /* 重置列表样式，并设置计数器 */
-    ol {
-        list-style-type: none;
-        padding: 0;
-        counter-reset: list-counter;
-    }
-    li {
-        counter-increment: list-counter;
-        margin-bottom: 10px;
-    }
-    /* 添加伪元素来显示数字，并在悬停时改变颜色 */
-    li::before {
-        content: counter(list-counter) ". ";
-        color: black; /* 默认颜色 */
-        cursor: pointer; /* 将鼠标光标改为指针形状 */
-    }
-    li:hover::before {
-        color: blue; /* 鼠标悬停时的颜色 */
-    }
+  /* 基本列表样式 */
+  ol {
+    list-style-type: none;
+    padding: 0;
+    counter-reset: list-counter;
+  }
+  li {
+    counter-increment: list-counter;
+    margin-bottom: 10px;
+  }
+  li:before {
+    content: counter(list-counter);
+    margin-right: 5px;
+    /* 添加圆圈或方框样式 */
+    border: 2px solid black; /* 边框 */
+    border-radius: 50%; /* 圆形图标，如果需要方形，可以设置为0 */
+    display: inline-block;
+    width: 20px; /* 图标宽度 */
+    height: 20px; /* 图标高度 */
+    text-align: center;
+    line-height: 18px; /* 调整以垂直居中数字 */
+    transition: background-color 0.3s, color 0.3s; /* 过渡效果 */
+  }
+  /* 鼠标悬停效果 */
+  li:before:hover {
+    background-color: black; /* 背景颜色 */
+    color: white; /* 字体颜色 */
+    cursor: pointer;
+  }
 </style>
 </head>
 <body>
+
+
 
 <ol>
     <li><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
