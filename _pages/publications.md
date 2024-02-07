@@ -104,4 +104,3 @@ author_profile: true
     </li>
     <li style="margin-bottom: 10px;"><b>Instructional Design and Evaluation of Science Education to Improve Collaborative Problem Solving Skills</b><br>
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
-
