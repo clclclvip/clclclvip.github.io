@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Li CHEN 陳莉"
-excerpt: "Li CHEN 陳莉"
+title: "Li CHEN (陳莉)"
+excerpt: "Li CHEN (陳莉)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,8 +20,6 @@ Currently, my research has centered on
 * **Generative AI**: Developing tools for applying generative AI in education
 
 
-
-<!--
 <h2 id='publications'>Publications</h2>
 
 <a href="https://scholar.google.com/citations?user=gQWDB8b2ooAC&hl=ja" target="_blank">
@@ -119,4 +117,8 @@ Currently, my research has centered on
     </li>
     <li style="margin-bottom: 10px;"><b>Instructional Design and Evaluation of Science Education to Improve Collaborative Problem Solving Skills</b><br>
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
--->
+
+
+<h2 id='education'>Education</h2>
+
+
