@@ -22,7 +22,7 @@ Currently, my research has centered on
   
 * **Generative AI**: Developing tools for applying generative AI in education
 
-
+<!--
 # Publications
 
 <a href="https://scholar.google.com/citations?user=gQWDB8b2ooAC&hl=ja" target="_blank">
@@ -128,5 +128,5 @@ Currently, my research has centered on
 * **M.S. in Education, Kyushu University, 2018**
 * **Ph.D in Education, Kyushu University, 2021**
 
-
+-->
 
