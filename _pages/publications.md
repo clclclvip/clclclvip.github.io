@@ -14,6 +14,40 @@ author_profile: true
 </a>
 
 
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        ol {
+            list-style-type: none; 
+            padding: 0; 
+            counter-reset: list-counter;
+        }
+        li {
+            counter-increment: list-counter; 
+            margin-bottom: 10px;
+        }
+        li::before {
+            content: counter(list-counter) ". ";
+            font-weight: bold; /* 加粗编号 */
+        }
+    </style>
+</head>
+<body>
+    <ol>
+        <li><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
+            <b>Chen, L.</b>, Geng, X., Lu, M., Shimada, A., and Yamada, M. (2023). <i>SAGE Open, 13</i>(3).
+        </li>
+    </ol>
+</body>
+</html>
+-->
+
+
+
 ## Peer-reviewed Journal
 <ol style="list-style-type: none; padding: 0; counter-reset: list-counter;">
     <li style="counter-increment: list-counter; margin-bottom: 10px;"><b>How Students Use Learning Analytics Dashboards in Higher Education: A Learning Performance Perspective</b><br>
@@ -104,3 +138,14 @@ author_profile: true
     </li>
     <li style="margin-bottom: 10px;"><b>Instructional Design and Evaluation of Science Education to Improve Collaborative Problem Solving Skills</b><br>
         <b>Chen, L.</b>, Uemura, H., Goda, Y., Okubo, F., Taniguchi, Y., Oi, M., Konomi, S., Ogata, H., & Yamada, M. (2018).<i>Proceedings of Society for Information Technology & Teacher Education International Conference </i>,  (pp. 1306–1311). Washington, D.C., United States.
+      
+      
+    <style>
+        li::before {
+            content: counter(list-counter) ". ";
+            font-weight: bold; /* 可选：加粗显示 */
+        }
+    </style>
+</ol>
+
+
